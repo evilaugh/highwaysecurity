@@ -5,3 +5,4 @@ SMART LIGHTS AND HIGHWAY MONITORING SYSTEM
 We use background subtraction algorithm  to separate moving vehicles from the background and then some morphological transformations to improve accuracy of detection.
 
 
+the end
